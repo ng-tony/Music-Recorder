@@ -9,8 +9,8 @@ Records up to 3, 8 Note songs and can be played back
   - Display Songs on Monitor
 
 ## Setup
-GPIO [3] = Power
-GPIO [5] = Signal
+GPIO [3] /= Power
+GPIO [5] \= Signal
 
 SW [0:11] = Notes
 SW [12:13] = Choose songs
