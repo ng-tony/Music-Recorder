@@ -1,7 +1,7 @@
 # Music-Recorder
-CSCB58 Final project
-TONY NG
-TAE OH
+CSCB58 Final project  
+TONY NG  
+TAE OH  
 
 ## Description
 Records up to 3, 8 Note songs and can be played back
